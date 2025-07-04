@@ -1,0 +1,15 @@
+#Task 1
+a=int(input("First int="))    #Taking input from the user 
+b=int(input("Second int="))   
+
+print(("Addition:")+ str(a+b))
+print("Subtraction: \t" + str(a-b))
+print("Multiplication: \t" + str(a*b))
+print("Divivsion: \t" + str(a/b))
+ 
+
+#Task 2
+First_name= input("First name:")  #Taking input from the user 
+Last_name= input("Last name:")
+
+print("Hello" + "," + " "+ First_name +" " + Last_name + "!" + " Welcome to the python program.")
